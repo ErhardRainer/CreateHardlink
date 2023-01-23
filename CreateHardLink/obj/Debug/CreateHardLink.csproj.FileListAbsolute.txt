@@ -1,0 +1,6 @@
+E:\20_Programmierung\_vbnet\CreateHardLink\CreateHardLink\obj\Debug\CreateHardLink.csprojResolveAssemblyReference.cache
+E:\20_Programmierung\_vbnet\CreateHardLink\CreateHardLink\bin\Debug\CreateHardLinkPrg.exe.config
+E:\20_Programmierung\_vbnet\CreateHardLink\CreateHardLink\bin\Debug\CreateHardLinkPrg.exe
+E:\20_Programmierung\_vbnet\CreateHardLink\CreateHardLink\bin\Debug\CreateHardLinkPrg.pdb
+E:\20_Programmierung\_vbnet\CreateHardLink\CreateHardLink\obj\Debug\CreateHardLinkPrg.exe
+E:\20_Programmierung\_vbnet\CreateHardLink\CreateHardLink\obj\Debug\CreateHardLinkPrg.pdb
